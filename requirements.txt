@@ -1,4 +1,5 @@
 streamlit
 openai
-assemblyai
 yt-dlp
+openai-whisper
+ffmpeg-python
